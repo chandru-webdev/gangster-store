@@ -14,7 +14,7 @@ This project is a modern frontend application developed using a component-based 
 - Utility-first styling with Tailwind CSS
 - Component library integration with shadcn/ui
 - Fast development and build process using Vite
-- Maintainable and scalable frontend structure
+- Maintainable and scalable frontend structure                             
 
 ## 🛠️ Tech Stack
 
