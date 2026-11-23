@@ -53,7 +53,7 @@ project/
 ├── package.json
 ├── tailwind.config.ts
 ├── tsconfig.json
-└── vite.config.ts
+└── vite.config.ts                      
 ```
 
 *Note: The folder structure may vary depending on the actual project configuration.*
