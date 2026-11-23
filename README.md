@@ -92,3 +92,6 @@ A suitable open-source license can be added depending on the intended use and di
 ---
 
 **Developed using React, TypeScript, Vite, Tailwind CSS, and shadcn/ui.**
+
+
+
